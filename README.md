@@ -22,6 +22,56 @@
   <li><strong>Bootstrap:</strong> Designing responsive and consistent UI components</li>
   <li><strong>Redux/Context API:</strong> Efficient state management</li>
 </ul>
+<h4>Backend:</h4>
+<ul>
+  <li><strong>Node.js:</strong> Server-side development for scalable applications</li>
+  <li><strong>Express.js:</strong> Building RESTful APIs and handling server logic</li>
+  <li><strong>MongoDB:</strong> Database management for efficient data storage and retrieva</li>
+  <li><strong>JWT/OAuth:</strong> Implementing secure authentication and authorization</li>
+</ul>
+<h4>Tools & Other Technologies:</h4>
+<ul>
+  <li><strong>Git:</strong> Version control and collaboration</li>
+  <li><strong>Webpack:</strong> Module bundling and asset management</li>
+  <li><strong>Npm:</strong> Package management</li>
+  <li><strong>Websocket:</strong> Real-time communication</li>
+</ul>
+<hr>
+<h3>🌟 Featured Projects</h3>
+<h4>Ecommerce Platform</h4>
+<p>
+  An end-to-end ecommerce solution built with the MERN stack (MongoDB, Express.js, React.js, Node.js). 
+  It includes a powerful admin dashboard for managing products, categories, and user roles, and features secure payment integrations.
+</p>
+<ul>
+  <li><strong>Frontend:</strong> React.js</li>
+  <li><strong>Backend:</strong> Node.js, Express.js</li>
+  <li><strong>Database:</strong> MongoDB</li>
+  <li><strong>Features:</strong> Admin dashboard, payment gateways, role management</li>
+</ul>
+<h4>Real-time Chat Application</h4>
+<p>
+  A dynamic chat app using React.js for the frontend and Node.js with WebSocket for backend communication. 
+  It offers a responsive interface and real-time messaging capabilities.
+</p>
+<ul>
+  <li><strong>Frontend:</strong> React.js</li>
+  <li><strong>Backend:</strong> Node.js, WebSocket</li>
+  <li><strong>Features:</strong> Real-time messaging, responsive design</li>
+</ul>
+<hr>
+<h3>📫 Get in Touch</h3>
+<ul>
+  <li><strong>LinkedIn:</strong><a href="https://www.linkedin.com/in/mhamza7265" target="_blank"> linkedin.com/in/mhamza7265</a></li>
+  <li><strong>Email:</strong><a href="mailto:m.hamza7265@gmail.com"> m.hamza7265@gmail.com</a></li>
+  <li><strong>Mobile:</strong> +92-342-4259-468</li>
+</ul>
+<hr>
+<h3>👨‍💻 Open to Opportunities</h3>
+<p>
+  I am always open to new challenges and opportunities. If you have an exciting project or collaboration in mind, feel free to reach out!
+</p>
+<p>Thank you for visiting my profile! Let's build something amazing together. 🚀</p>
 
 <!---
 mhamza7265/mhamza7265 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
