@@ -9,7 +9,7 @@
   <li><strong>Name:</strong> Muhammad Hamza Hanif</li>
   <li><strong>Role:</strong> Full-Stack Web Developer</li>
   <li><strong>Experience:</strong> 2+ Years</li>
-  <li><strong>Location:</strong> lahore, Pakistan</li>
+  <li><strong>Location:</strong> Lahore, Pakistan</li>
 </ul>
 <hr>
 <h3>🛠️ My Tech Stack</h3>
