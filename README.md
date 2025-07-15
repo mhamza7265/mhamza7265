@@ -1,83 +1,44 @@
-# Muhammad Hamza - Full-Stack Web Developer 👨‍💻
+<h1 align="center">Muhammad Hamza - Web Developer</h1>
 
 ### Welcome to My GitHub Profile! 🌟
 
-Hello! I'm Muhammad Hamza, an accomplished full-stack web developer with a passion for creating robust and scalable web applications. With 2 years of professional experience, 
-I specialize in both frontend and backend development, leveraging the latest technologies to deliver high-quality solutions.
+Hello! I'm Muhammad Hamza, an accomplished web developer with a passion for creating robust and scalable web applications. With more than 2 years of professional experience, 
+I specialize in both frontend and backend development, leveraging the latest technologies to deliver high-quality solutions.<br/><br/>
 
-### 🚀 About Me
-<ul>
-  <li><strong>Name:</strong> Muhammad Hamza Hanif</li>
-  <li><strong>Role:</strong> Full-Stack Web Developer</li>
-  <li><strong>Experience:</strong> 2+ Years</li>
-  <li><strong>Location:</strong> Lahore, Pakistan</li>
-</ul>
+### About Me:
 
----
+- 🔭 I’m currently working on Laravel + ReactJs projects  
+- 🌱 I’m learning NodeJs  
+- 💬 Ask me about Laravel, REST APIs, or ReactJs  
+- 📫 How to reach me: m.hamza7265@gmail.com 
+<br/><br/>
 
-### 🛠️ My Tech Stack
-#### Frontend:
-<ul>
-  <li><strong>React.js:</strong> Building responsive and intuitive user interfaces</li>
-  <li><strong>HTML:</strong>Crafting semantic and accessible web pages</li>
-  <li><strong>CSS:</strong> Styling with modern CSS features and pre-processors</li>
-  <li><strong>JavaScript:</strong> Enhancing interactivity and functionality</li>
-  <li><strong>Bootstrap:</strong> Designing responsive and consistent UI components</li>
-  <li><strong>Redux/Context API:</strong> Efficient state management</li>
-</ul>
+### Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,mysql,tailwind,bootstrap,vscode,github,html,css,mongodb,postman,jquery" />
+</p>
 
-#### Backend:
-<ul>
-  <li><strong>Node.js:</strong> Server-side development for scalable applications</li>
-  <li><strong>Express.js:</strong> Building RESTful APIs and handling server logic</li>
-  <li><strong>MongoDB:</strong> Database management for efficient data storage and retrieva</li>
-  <li><strong>JWT/OAuth:</strong> Implementing secure authentication and authorization</li>
-</ul>
+### Most Used Languages:
 
-#### Tools & Other Technologies:
-<ul>
-  <li><strong>Git:</strong> Version control and collaboration</li>
-  <li><strong>Webpack:</strong> Module bundling and asset management</li>
-  <li><strong>Npm:</strong> Package management</li>
-  <li><strong>Websocket:</strong> Real-time communication</li>
-</ul>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamza7265&layout=compact&theme=tokyonight" />
+</p>
 
----
-
-### 🌟 Featured Projects
-#### Ecommerce Platform
-
-An end-to-end ecommerce solution built with the MERN stack (MongoDB, Express.js, React.js, Node.js). 
-It includes a powerful admin dashboard for managing products, categories, and user roles, and features secure payment integrations.
-
-<ul>
-  <li><strong>Frontend:</strong> React.js</li>
-  <li><strong>Backend:</strong> Node.js, Express.js</li>
-  <li><strong>Database:</strong> MongoDB</li>
-  <li><strong>Features:</strong> Admin dashboard, payment gateways, role management</li>
-</ul>
-
-#### Real-time Chat Application
-
-A dynamic chat app using React.js for the frontend and Node.js with WebSocket for backend communication. 
-It offers a responsive interface and real-time messaging capabilities.
-
-<ul>
-  <li><strong>Frontend:</strong> React.js</li>
-  <li><strong>Backend:</strong> Node.js, WebSocket</li>
-  <li><strong>Features:</strong> Real-time messaging, responsive design</li>
-</ul>
-
----
-
-### 📫 Get in Touch
-<ul>
-  <li><strong>LinkedIn:</strong><a href="https://www.linkedin.com/in/mhamza7265" target="_blank"> linkedin.com/in/mhamza7265</a></li>
-  <li><strong>Email:</strong><a href="mailto:m.hamza7265@gmail.com"> m.hamza7265@gmail.com</a></li>
-  <li><strong>Mobile:</strong> +92-342-4259-468</li>
-</ul>
-
----
+### Contact Me:
+<p align="left">
+  <a href="mailto:m.hamza7265@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mhamza7265" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mhamza7265" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/mhamza7265" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
 ### 👨‍💻 Open to Opportunities
 
