@@ -21,7 +21,7 @@ I specialize in both frontend and backend development, leveraging the latest tec
 ### Most Used Languages:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamza7265&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamza7265&theme=dark" />
 </p>
 
 ### Contact Me:
