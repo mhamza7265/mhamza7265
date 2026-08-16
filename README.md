@@ -2,7 +2,7 @@
 
 ### Welcome to My GitHub Profile! 🌟
 
-Hello! I'm Muhammad Hamza, an accomplished web developer with a passion for creating robust and scalable web applications. With more than 2 years of professional experience, 
+Hello! I'm Muhammad Hamza, an accomplished web developer with a passion for creating robust and scalable web applications. With more than 3 years of professional experience, 
 I specialize in both frontend and backend development, leveraging the latest technologies to deliver high-quality solutions.<br/><br/>
 
 ### About Me:
