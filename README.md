@@ -7,10 +7,9 @@ I specialize in both frontend and backend development, leveraging the latest tec
 
 ### About Me:
 
-- 🔭 I’m currently working on Laravel + ReactJs projects  
-- 🌱 I’m learning NodeJs  
+- 🔭 I’m currently working on NextJs + ReactJs + NodeJs + Laravel projects
 - 💬 Ask me about Laravel, REST APIs, or ReactJs  
-- 📫 How to reach me: m.hamza7265@gmail.com 
+- 📫 How to reach me: contact@hamzahanif.dev 
 <br/><br/>
 
 ### Languages and Tools:
